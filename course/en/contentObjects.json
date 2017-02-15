@@ -1,0 +1,45 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/099adb319c4910eec7c518c71cb42752af62327c.jpg"
+    },
+    "_id": "58a4596cfda9f5660ad85604",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "1. What is data?",
+    "title": "1. What is data?",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the need for open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_bookmarking": {
+      "_level": "page",
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  }
+]

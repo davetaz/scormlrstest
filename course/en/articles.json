@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "58a4596cfda9f5660ad85605",
+    "_parentId": "58a4596cfda9f5660ad85604",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "58a4596cfda9f5660ad85606",
+    "_parentId": "58a4596cfda9f5660ad85604",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "module1",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "58a4596cfda9f5660ad85607",
+    "_parentId": "58a4596cfda9f5660ad85604",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  }
+]

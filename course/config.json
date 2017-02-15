@@ -1,0 +1,126 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "58a4596cfda9f5660ad85627",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_courseId": "58a4596cfda9f5660ad85603",
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_spoor": {
+    "_advancedSettings": {
+      "_commitOnVisibilityChangeHidden": true,
+      "_suppressErrors": false,
+      "_commitRetryDelay": 2000,
+      "_maxCommitRetries": 5,
+      "_timedCommitFrequency": 10,
+      "_commitOnStatusChange": true,
+      "_showDebugWindow": false
+    },
+    "_reporting": {
+      "_resetStatusOnLanguageChange": false,
+      "_onAssessmentFailure": "failed",
+      "_onTrackingCriteriaMet": "completed"
+    },
+    "_tracking": {
+      "_shouldStoreResponses": true,
+      "_shouldSubmitScore": true,
+      "_requireAssessmentPassed": false,
+      "_requireCourseCompleted": true
+    },
+    "_isEnabled": true
+  },
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "_licencePage": {
+    "licence": "CC-BY 4.0"
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/edsa-flat.png",
+          "alt": "European Data Science Academy"
+        },
+        "description": "<p>This project has received funding from the&nbsp;European Union&#39;s Horizon 2020&nbsp;research and innovation programme&nbsp;under grant agreement No 643937</p>\n",
+        "title": "European Data Science Academy"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": "The Open Data Institute"
+        },
+        "description": "<p>Expert knowledge and content development provided by the&nbsp;Open Data Institute.</p>\n",
+        "title": "The Open Data Institute"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/adapt.png",
+          "alt": "Adapt eLearning"
+        },
+        "description": "<p>Open source learning platform developed by&nbsp;Adapt elearning.</p>\n",
+        "title": "Adapt eLearning"
+      }
+    ]
+  },
+  "_trackingHub": {
+    "_channels": [
+      {
+        "_isStateSource": false,
+        "_saveStateIsEnabled": true,
+        "_transport": {
+          "_auth": {
+            "_password": "",
+            "_username": ""
+          },
+          "_endpoint": "http://localhost/~davetaz/odi/LRS/web/api/v2/",
+          "_handlerName": "ODILRSStorageTransportHandler"
+        },
+        "_msgComposerName": "learnifyMessageComposer",
+        "_isEnabled": true,
+        "_name": "ODI LRS"
+      }
+    ],
+    "_courseID": "https://davetaz.github.io/scormlrstest",
+    "_isEnabled": true
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-lloyds",
+      "adapt-contrib-boxMenu",
+      "adapt-trackingHub",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-assessment",
+      "adapt-contrib-resources",
+      "adapt-skillsFramework",
+      "adapt-odi-licence",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-spoor",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-mcq",
+      "adapt-contrib-narrative",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-accordion"
+    ]
+  }
+}
